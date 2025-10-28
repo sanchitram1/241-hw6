@@ -1,6 +1,7 @@
 # Random Walk Simulations
 
-Statistical simulations exploring Rademacher distributions and random walk behavior with varying probabilities.
+Statistical simulations exploring Rademacher distributions and random walk behavior with
+varying probabilities.
 
 ## Overview
 
